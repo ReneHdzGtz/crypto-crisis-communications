@@ -1,5 +1,4 @@
 ---
-version: 1.0.0
 name: crypto-crisis-communications
 description: >
   Expert system for managing communications during crises in Web3 and crypto environments.
